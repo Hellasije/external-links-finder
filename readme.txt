@@ -46,5 +46,5 @@ This plugin was developed by Zeljko Ascic.
 External Links Finder is licensed under the GPLv2 or later: http://www.gnu.org/licenses/gpl-2.0.html
 
 == More Information ==
-For more information, visit the [plugin homepage](https://yourwebsite.com/plugins/external-links-finder).
+For more information, visit the [plugin homepage](https://www.ascic.net/).
 
